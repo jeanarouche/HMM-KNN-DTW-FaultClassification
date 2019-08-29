@@ -1,2 +1,7 @@
 # HMM-KNN-DTW-FaultClassification
-DataSet and scripts in R to classification of faults in power transmission lines script in shell to build bases to R.
+
+DataSet and scripts in R to classification of faultsHere are all codes and data sets as follows:
+
+1 - Database (11 .txt files)
+2 - HMM algorithm code (1 .R file)
+3 - KNN-DTW Algorithm Code (1 .JAVA file) 
